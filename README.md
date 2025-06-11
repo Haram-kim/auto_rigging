@@ -5,7 +5,7 @@
 1. Create skirt object
 - The mesh must be consisted of quads only
 - The mesh must have circle shape around origin
-2. Run the scripts by copy the codes
+2. Run the scripts by copy the code in "auto_rigging\skirt_rigging\skirt_rigging.py"
 3. Select "skirt_rig" bone and set the "root" bone to suit your taste
 ```
 
